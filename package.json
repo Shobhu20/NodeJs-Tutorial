@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "web-server",
   "version": "1.0.0",
   "main": "index.js",
@@ -14,4 +15,16 @@
     "request": "^2.88.0"
   },
   "description": ""
+=======
+  "name": "node-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+>>>>>>> 492e3425bc258cb3b777a45f1c2f3fec33ff2353
 }
